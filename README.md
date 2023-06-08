@@ -23,7 +23,7 @@
 ## Encuéntrame en:
 
 [![YouTube](https://img.shields.io/badge/thefabi8a_dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCy3FaRR8C36BSaltZTP7HPw)
-[![Twitch](https://img.shields.io/badge/thefabi8a-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/thefabi8a)
+[![Twitch](https://img.shields.io/badge/thefabi8a-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/thefabi8a){:target="\_blank"}
 [![Discord](https://img.shields.io/badge/thefabi8a-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/5R3byA54Fg)
 <br>
 
