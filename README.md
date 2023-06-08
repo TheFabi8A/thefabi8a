@@ -2,7 +2,7 @@
 
 ### Frontend Developer 👨‍💻
 
-![https://github.com/thefabi8a](https://raw.githubusercontent.com/thefabi8a/thefabi8a/main/banner.png)
+![https://github.com/thefabi8a](https://github.com/TheFabi8A/thefabi8a/blob/main/banner.png)
 
 ## Tecnologías:
 
