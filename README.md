@@ -1,4 +1,4 @@
-![https://github.com/thefabi8a](https://raw.githubusercontent.com/TheFabi8A/thefabi8a.dev/main/public/thefabi8a-social.png)
+![https://github.com/thefabi8a](/thefabi8a-social.png)
 
 ## Programming Languages:
 
