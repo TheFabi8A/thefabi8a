@@ -1,5 +1,9 @@
 ![https://github.com/thefabi8a](/thefabi8a-social.png)
 
+## Resume.pdf
+
+[![Resume](https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000)](resume.pdf)
+
 ## Programming Languages:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
