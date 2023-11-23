@@ -1,8 +1,8 @@
-![https://github.com/thefabi8a](/thefabi8a-social.png)
+![https://github.com/thefabi8a](/README-GitHub-Banner.png)
 
 ## Resume.pdf
 
-[![Resume](https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000)](resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000)](https://www.thefabi8a.dev/resumen.pdf)
 
 ## Programming Languages:
 
