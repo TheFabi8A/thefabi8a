@@ -1,4 +1,4 @@
-![https://github.com/thefabi8a](/README-GitHub-Banner.png)
+![https://github.com/thefabi8a](/README-GitHub-Banner.jpg)
 
 ## Resume.pdf
 
