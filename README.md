@@ -1,8 +1,8 @@
-![https://github.com/thefabi8a](/README-GitHub-Banner.jpg)
+![https://github.com/thefabi8a](/banner.jpg)
 
 ## Resume.pdf
 
-[![Resume](https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000)](https://www.thefabi8a.dev/resumen.pdf)
+[![Resume](https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000)](https://www.thefabi8a.tech/resumen.pdf)
 
 ## Programming Languages:
 
@@ -39,4 +39,4 @@
 [![TikTok](https://img.shields.io/badge/thefabi8a.dev-fff?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000)](https://tiktok.com/@thefabi8a.dev)
 
 [![LinkedIn](https://img.shields.io/badge/fabian_ochoa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/fabian-ochoa)
-[![Web](https://img.shields.io/badge/Website-TheFabi8A.dev-fff?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000)](https://thefabi8a.dev)
+[![Web](https://img.shields.io/badge/Website-TheFabi8A.tech-fff?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000)](https://thefabi8a.tech/en)
