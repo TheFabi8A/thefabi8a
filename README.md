@@ -1,4 +1,4 @@
-![https://github.com/thefabi8a](/banner.jpg)
+![banner](https://github.com/TheFabi8A/thefabi8a/assets/104035823/61928861-5067-44b8-b439-153b01f024cd)
 
 ## Resume.pdf
 
