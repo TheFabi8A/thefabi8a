@@ -29,6 +29,11 @@
 [![Vercel](https://img.shields.io/badge/vercel-fff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000)](https://vercel.com/)
 [![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000)](https://www.netlify.com/)
 
+## Relevant Projects
+[Streamers Goodies](https://streamers-goodies.vercel.app/)
+
+![homepage](https://github.com/user-attachments/assets/efe52dd2-45ec-4ace-a4fa-83cc9938c0be)
+
 ## You can find me in:
 
 [![YouTube](https://img.shields.io/badge/thefabi8a_dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCy3FaRR8C36BSaltZTP7HPw)
