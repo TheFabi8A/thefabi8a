@@ -1,4 +1,4 @@
-[Straimo](https://straimo.com)
+# [Straimo](https://straimo.com)
 
 Creator of StrAlmo ⚡ AI-powered stream widgets & tools for creators.
 
